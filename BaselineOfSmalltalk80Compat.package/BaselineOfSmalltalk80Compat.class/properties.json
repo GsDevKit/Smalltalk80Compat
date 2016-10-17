@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfSmalltalk80Compat",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "dkh 10/16/2016 18:21",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfSmalltalk80Compat",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }

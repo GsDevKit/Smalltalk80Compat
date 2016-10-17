@@ -1,1 +1,1 @@
-(name 'BaselineOfSmalltalk80Compat-dkh.1' message 'initial commit' id '1fe9c349-6bc6-4f61-91b4-18437f913662' date '10/16/2016' time '18:26:33' author 'dkh' ancestors () stepChildren ())
+(name 'BaselineOfSmalltalk80Compat-dkh.2' message 'make project Metadataless' id '8c71ae5e-3180-410d-8315-151ce2ea61d8' date '10/17/2016' time '14:40:23' author 'dkh' ancestors ((name 'BaselineOfSmalltalk80Compat-dkh.1' message 'initial commit' id '1fe9c349-6bc6-4f61-91b4-18437f913662' date '10/16/2016' time '18:26:33' author 'dkh' ancestors () stepChildren ())) stepChildren ())

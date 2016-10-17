@@ -2,4 +2,4 @@ initialization
 initialize
   "self initialize"
 
-  UserGlobals at: #'Smalltalk' put self new
+  UserGlobals at: #'Smalltalk' put: self new

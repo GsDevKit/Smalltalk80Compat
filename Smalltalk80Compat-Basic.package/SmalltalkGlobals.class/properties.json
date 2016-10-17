@@ -1,0 +1,14 @@
+{
+	"category" : "Smalltalk80Compat-Basic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SmalltalkGlobals",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,1 +1,1 @@
-(name 'Smalltalk80Compat-Basic-dkh.1' message 'initial commit' id 'cb726953-b21b-411f-97be-8f3626a8f639' date '10/16/2016' time '18:26:44' author 'dkh' ancestors () stepChildren ())
+(name 'Smalltalk80Compat-Basic-dkh.2' message 'start filling in implementation' id '3fc28c91-f481-49b4-9ec0-dbcabd2cfb9f' date '10/16/2016' time '19:26:22' author 'dkh' ancestors ((name 'Smalltalk80Compat-Basic-dkh.1' message 'initial commit' id 'cb726953-b21b-411f-97be-8f3626a8f639' date '10/16/2016' time '18:26:44' author 'dkh' ancestors () stepChildren ())) stepChildren ())

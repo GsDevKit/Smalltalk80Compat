@@ -1,0 +1,15 @@
+{
+	"category" : "Smalltalk80Compat-Basic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"classOrganizer",
+		"categories" ],
+	"name" : "SmalltalkGemStoneOrganization",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

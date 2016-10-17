@@ -1,2 +1,3 @@
 accessing
 globals
+  ^ globals

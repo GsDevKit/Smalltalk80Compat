@@ -1,5 +1,5 @@
 tests
-testImage
+testImageGlobals
   | st sentinel |
   sentinel := Object new.
   st := SmalltalkImage new.
@@ -19,4 +19,6 @@ testImage
     assert:
       (UserGlobals at: self nameOfClassThatDoesNotExist asSymbol) == sentinel.
   self
-    assert: (st at: #'Object' ifPresent: [ :class | class == Object ]) == true
+    assert: (st at: #'Object' ifPresent: [ :class | class == Object ]) == true.
+  self assert: (st includesKey: 'Object').
+  self assert: (st includesKey: #'Object')

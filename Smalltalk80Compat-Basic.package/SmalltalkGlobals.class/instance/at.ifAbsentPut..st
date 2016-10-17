@@ -4,8 +4,8 @@ at: aKey ifAbsentPut: aBlock
 	If key is not included in the receiver store the result 
 	of evaluating aBlock as new value."
 
-  ^ (self symbolList objectNamed: self defaultSymbolListName)
-    ifNil: [ | value |
+  ^ (self symbolList objectNamed: aKey) ifNil: [ | value |
       value := aBlock value.
-      self at: aKey put: value ]
-    ifNotNil: [ :anObject | anObject ]
+      (self symbolList objectNamed: self defaultSymbolListName)
+        at: aKey asSymbol
+        put: value ] ifNotNil: [ :anObject | anObject ]

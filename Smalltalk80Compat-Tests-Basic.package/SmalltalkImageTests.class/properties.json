@@ -1,0 +1,14 @@
+{
+	"category" : "Smalltalk80Compat-Tests-Basic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SmalltalkImageTests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

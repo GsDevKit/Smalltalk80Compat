@@ -4,6 +4,6 @@ at: aKey put: anObject
 	new entry for key and set is value to anObject. Answer anObject."
 
   (self symbolList objectNamed: self defaultSymbolListName)
-    at: aKey
+    at: aKey asSymbol
     put: anObject.
   ^ anObject

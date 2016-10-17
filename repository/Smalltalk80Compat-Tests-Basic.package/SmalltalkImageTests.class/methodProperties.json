@@ -1,9 +1,0 @@
-{
-	"class" : {
-		 },
-	"instance" : {
-		"nameOfClassThatDoesNotExist" : "dkh 10/17/2016 10:16",
-		"setUp" : "dkh 10/17/2016 10:18",
-		"tearDown" : "dkh 10/17/2016 10:18",
-		"testImageGlobals" : "dkh 10/17/2016 12:36",
-		"testImageOrganizer" : "dkh 10/17/2016 12:30" } }

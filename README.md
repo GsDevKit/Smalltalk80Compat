@@ -1,2 +1,2 @@
-# Smalltalk80Compat
-Smalltalk80 compatiblity for GemStone base
+# SmalltalkCompat
+Smalltalk compatiblity for GemStone base

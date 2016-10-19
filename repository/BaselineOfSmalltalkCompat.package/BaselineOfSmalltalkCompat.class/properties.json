@@ -1,5 +1,5 @@
 {
-	"category" : "BaselineOfSmalltalk80Compat",
+	"category" : "BaselineOfSmalltalkCompat",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
@@ -7,7 +7,7 @@
 	"commentStamp" : "dkh 10/16/2016 18:21",
 	"instvars" : [
 		 ],
-	"name" : "BaselineOfSmalltalk80Compat",
+	"name" : "BaselineOfSmalltalkCompat",
 	"pools" : [
 		 ],
 	"super" : "BaselineOf",

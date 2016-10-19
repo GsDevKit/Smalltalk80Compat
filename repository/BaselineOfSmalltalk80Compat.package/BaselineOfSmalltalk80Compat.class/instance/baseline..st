@@ -9,5 +9,5 @@ baseline: spec
       spec
         group: 'default' with: #('Core');
         group: 'Core' with: #('Smalltalk80Compat-Basic');
-        group: 'tests' with: #('Smalltalk80Compat-Tests-Basic');
+        group: 'Tests' with: #('Smalltalk80Compat-Tests-Basic');
         yourself ]
